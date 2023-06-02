@@ -8,16 +8,10 @@ order: 4
 
 
 # 💫 Summary
-👋 Hello! I'm Victor, a passionate cybersecurity enthusiast.
-<br><br>
-🎯 My goal is to become a highly skilled professional in ethical hacking and cyber defense.
-<br><br>
-🎓 During my studies at the Faculty of New Technologies at the University Jaume I, Castellón, I graduated in Game Design and Development. Additionally, I successfully completed a cybersecurity bootcamp organized by TheBridge in collaboration with the Cardenal Herrera University.
-<br><br>
-🏆 I have obtained notable certifications, including EJPTv2, Fortinet NSE1, NSE2, and NSE3, which support my experience in this field.
-<br><br>
-💼 Previously, I held the position of manager at an urban fashion store, where I gained social skills, experience in teamwork, and achieving shared objectives.
-
+👋 Hi, I'm Victor, a cybersecurity enthusiast.<br><br>
+🎯 My goal is to become a professional pentester trained in ethical hacking. Also, I love to participate and solve CTFs.<br><br>
+🎓 I studied at the faculty of new technologies at the University Jaume I and graduated in Design and Development of video games. Later, I decided to get involved in the world of cybersecurity and successfully completed a Bootcamp organized by TheBridge in collaboration with Cardenal Herrera University.<br><br>
+🏆EJPTv2, Fortinet NSE1, NSE2 and NSE3 are already certifications that I have passed. Now I am going for the eWPT, HTB CTPS and OSCP.<br><br>
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorvdka)
