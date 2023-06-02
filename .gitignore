@@ -20,3 +20,9 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Obsidian resources
+.obsidian
+HTB_machines
+THM_machines
+Resources

@@ -13,23 +13,23 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Madrid
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: h4ck3df1sh! # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Showcasing my journey as a penetration tester with walk-throughs, certifications, and more. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Victor van der Kolk's Penetration Testing Journey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://h4ck3df1sh.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: h4ck3df1sh # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,15 +37,16 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Victor van der Kolk Alvarez
+  email: victorvdka.dev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://www.linkedin.com/in/victorvdka
+    - https://github.com/h4ck3df1sh # change to your github homepage
+    - https://victorvdka.github.io
     # Uncomment below to add more social links
+    # - https://twitter.com/username # change to your twitter homepage
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -70,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/profile/profile-pic-rd.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -188,6 +189,14 @@ exclude:
   - rollup.config.js
   - node_modules
   - package*.json
+  - .obsidian
+  - HTB_machines
+  - MyNotes
+  - Resources
+  - THM_machines
+  - Web_files
+
+
 
 jekyll-archives:
   enabled: [categories, tags]
