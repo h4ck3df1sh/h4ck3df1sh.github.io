@@ -21,7 +21,7 @@ Throughout this walk-through, we will be utilizing various tools and techniques 
 ## Introduction to the machine
 This Windows host is running SMB and RPC services. The SMB service on this host has a known vulnerability called EternalBlue. Exploiting this vulnerability allows an attacker to gain direct access to the system as NT Authority/System, granting them full privileges. The exploit for EternalBlue is well-known and relatively easy to execute.
 ## Reconnaissance and information gathering
-After executing a customized [Nmap](2023-06-05-My-Nmap-Function.md) we obtained the following information from the victim machine:
+After executing a customized [Nmap](/posts/My-Nmap-Function/) we obtained the following information from the victim machine:
 ```bash
 [*] Target Ip: 10.10.10.40
 
