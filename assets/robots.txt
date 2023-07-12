@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /norobots/
+Disallow: /posts/Pilgrimage-HackTheBox/
+Disallow: /posts/PC-HackTheBox/
+Disallow: /posts/Sandworm-HackTheBox/
+
+Sitemap: https://h4ck3df1sh.github.io/sitemap.xml
