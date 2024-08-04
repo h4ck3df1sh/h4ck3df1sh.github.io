@@ -1,0 +1,4 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/h4ck3df1sh/Blog
+	branch = gh-pages
